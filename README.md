@@ -1,0 +1,2 @@
+# English-to-Luganda-JSON-Dictionary-
+English to Luganda JSON Dictionary for developers!!!  I created this JSON dictionary because unlike many of the better-represented languages, I struggled dearly to find a digital version of a Luganda to English to assist within my project.  Please enjoy!  #Please NOTE - This dictionary is not absolutely void of errors and must be fact-checked before use in production. I will validate this listing over time.  Thank you
